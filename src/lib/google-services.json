@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1006832995930",
+    "project_id": "myanmar-promotions-v2",
+    "storage_bucket": "myanmar-promotions-v2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006832995930:android:54c0e9ccc14cafef845263",
+        "android_client_info": {
+          "package_name": "technology.ayeyar.myanmarpromotions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006832995930-r275kjp4o9h0d9fd59v4dabitp4b4atr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6tsHmUDE6Inf8Mad4Okg07IHhC3UGxkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006832995930-r275kjp4o9h0d9fd59v4dabitp4b4atr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
